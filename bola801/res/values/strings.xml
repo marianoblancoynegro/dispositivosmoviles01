@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bola801</string>
+    <string name="hello_world">La respuesta es si!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name ="respuestas">
+        <item >en mi opinion si</item>
+        <item >es cierto</item>
+        <item >es decididamente asi</item>
+        <item >probablemente</item>
+        <item >buen pronostico</item>
+        <item >todo apunta a que si</item>
+        <item >sin duda</item>
+        <item >si</item>
+        <item >si, definitivamente si</item>
+        <item >debes confiar en ello</item>
+        <item >respuesta vaga, vuelve a intentarlo</item>
+        <item >pregunta en otro momento</item>
+        <item >sera mejor que no te lo diga ahora</item>
+        <item >ahora no se que decir</item>
+        <item >concentrate en una pregunta de verda</item>
+        <item >para que preguntas si ya sabes la respuesta</item>
+        <item >solo tu tienes esa respuesta</item>
+        <item >no cuentes con ello</item>
+        <item >mi respuesta es no</item>
+        <item >las perspectivas no son buenas</item>
+        <item >demasiado dudoso</item>
+        <item >si tu lo crees adelante</item>
+        <item >que no se diga que no lo has intentado</item>
+        <item >empieza de cero</item>
+        <item >has probado a apagar y encender?</item>
+        <item >estas perdiendo el tiempo si piensas que te voy a solucionar algo</item>
+        <item >un psicologo no es tan caro</item>
+        <item >tu vecino querria que le hicieras esa pregunta</item>
+        <item >preguntale a tu mejor amigo</item>
+        <item >cada uno tenemos lo que merecemos</item>
+        <item >haz cosas buenas y te pasaran cosas buenas</item>
+        <item >haz caso a la anterior respuesta</item>
+        <item >no insistas, solo tu sabes esa respuesta</item>
+        <item >de verdad quieres que te diga algo distinto?</item>
+        <item >mira adelante y continua con otra cosa</item>
+        <item >Error 404 File Not found, es coña, pero no quiero contestar a eso...</item>
+    </string-array>
+    
+</resources>
